@@ -1,0 +1,722 @@
+Using pre-set license
+Built from '2022.1/staging' branch; Version is '2022.1.16f1 (7321c9670bc2) revision 7545289'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'en' Physical Memory: 16309 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/535439/Multiplayer
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49221
+Successfully changed project path to: C:/Users/535439/Multiplayer
+C:/Users/535439/Multiplayer
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 113.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.1.16f1 (7321c9670bc2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/535439/Multiplayer/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x2188)
+    Vendor:   NVIDIA
+    VRAM:     3949 MB
+    Driver:   31.0.15.3758
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.030034 seconds.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 102.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.023 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1024ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (750ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (316ms)
+				TypeCache.Initialize (315ms)
+					TypeCache.ScanAssembly (313ms)
+				ResolveRequiredComponents (1ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (334ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (78ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (102ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (96ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009458 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 101.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.482 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1483ms)
+		BeginReloadAssembly (151ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (1176ms)
+			LoadAssemblies (121ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (315ms)
+				TypeCache.Initialize (305ms)
+					TypeCache.ScanAssembly (299ms)
+				ResolveRequiredComponents (11ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (70ms)
+			SetupLoadedEditorAssemblies (621ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (42ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (101ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (251ms)
+				ProcessInitializeOnLoadMethodAttributes (90ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5072 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (348.9 KB). Loaded Objects now: 5530.
+Memory consumption went from 0.79 GB to 0.79 GB.
+Total: 3.845900 ms (FindLiveObjects: 0.547900 ms CreateObjectMapping: 0.145700 ms MarkObjects: 2.972700 ms  DeleteObjects: 0.178400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 234132.532420 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22de92f84c33a20979e5734bfee98bc2') in 0.044566 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008338 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.107 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1108ms)
+		BeginReloadAssembly (151ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (852ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (244ms)
+				TypeCache.Initialize (234ms)
+					TypeCache.ScanAssembly (229ms)
+				ResolveRequiredComponents (10ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (415ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (43ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (80ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4936 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (309.8 KB). Loaded Objects now: 5534.
+Memory consumption went from 0.76 GB to 0.76 GB.
+Total: 3.335500 ms (FindLiveObjects: 0.421200 ms CreateObjectMapping: 0.152000 ms MarkObjects: 2.672600 ms  DeleteObjects: 0.088500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008502 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.513 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1514ms)
+		BeginReloadAssembly (140ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (1196ms)
+			LoadAssemblies (103ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (432ms)
+				TypeCache.Initialize (421ms)
+					TypeCache.ScanAssembly (416ms)
+				ResolveRequiredComponents (11ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (538ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (53ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (282ms)
+				ProcessInitializeOnLoadMethodAttributes (76ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5405 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (0.7 MB). Loaded Objects now: 6000.
+Memory consumption went from 0.83 GB to 0.83 GB.
+Total: 4.562800 ms (FindLiveObjects: 0.571000 ms CreateObjectMapping: 0.150500 ms MarkObjects: 3.421700 ms  DeleteObjects: 0.418100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008310 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.222 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1223ms)
+		BeginReloadAssembly (165ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (955ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (255ms)
+				TypeCache.Initialize (245ms)
+					TypeCache.ScanAssembly (239ms)
+				ResolveRequiredComponents (11ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (498ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (47ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (252ms)
+				ProcessInitializeOnLoadMethodAttributes (75ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Script is not up to date after domain reload: guid(72613fa0bc0f9427dba5ddf385945519) path("Assets/LEGO/Scripts/Game/Condition.cs") state(2)
+Script is not up to date after domain reload: guid(574a1d964a85de941b58a08195fc4853) path("Assets/LEGO/Scripts/LEGO Behaviours/ControlAction.cs") state(2)
+Script is not up to date after domain reload: guid(0a7f77105d5f845c5a03d328b4d14aee) path("Assets/LEGO/Scripts/Editor/PickupActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(1555a4f0291ea354ea1634aa4bc4dde2) path("Assets/LEGO/Scripts/Editor/ControlActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(fb978b6e0ce4c48a3b419c1923961c84) path("Assets/LEGO/Scripts/Editor/ModelEditor.cs") state(2)
+Script is not up to date after domain reload: guid(eb3367a4438254a6b8e5f51630f4902b) path("Assets/LEGO/Scripts/LEGO Behaviours/ElevatorAction.cs") state(2)
+Script is not up to date after domain reload: guid(eec9f03de17857a48ac47c6ae8577551) path("Assets/LEGO/Scripts/Utilities/MeshCombiner/MeshCombiner.cs") state(2)
+Script is not up to date after domain reload: guid(ad02455711c5143adad286e635a90e23) path("Assets/LEGO/Scripts/Editor/ShootActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(78088a6acda0f4fe9b5d53b68dcfebfe) path("Assets/LEGO/Scripts/LEGO Behaviours/TimerTrigger.cs") state(2)
+Script is not up to date after domain reload: guid(870cc0031824c434994ea7392aebeed1) path("Assets/LEGO/Tutorials/Criteria/PlayModeStateCriteria.cs") state(2)
+Script is not up to date after domain reload: guid(4b5441e22362542c09dd4549acc826b8) path("Assets/LEGO/Scripts/LEGO Minifig/MinifigFaceAnimationController.cs") state(2)
+Script is not up to date after domain reload: guid(879e538f247574aa5b7e1e2ab95c4376) path("Assets/LEGO/Scripts/UI/UIAudio.cs") state(2)
+Script is not up to date after domain reload: guid(a4bd69538a60e418483a59a9edcf2ad8) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Alive Movements/AliveMovement.cs") state(2)
+Script is not up to date after domain reload: guid(e03845ba7ab7a7247afc4730e814db19) path("Assets/LEGO/Scripts/Utilities/BuildSettings/BuildSettings.cs") state(2)
+Script is not up to date after domain reload: guid(e6b4d538c10944319bd08a862feb8e7f) path("Assets/LEGO/Scripts/Gameplay/GroundHazard.cs") state(2)
+Script is not up to date after domain reload: guid(c3420f187011c1a43824ca0d4c88d6c6) path("Assets/LEGO/Tutorials/Criteria/PublishCriteria.cs") state(2)
+Script is not up to date after domain reload: guid(b961a9f9912c548ddaa28d240d55f6c7) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/BrickMeshCombiner.cs") state(2)
+Script is not up to date after domain reload: guid(aa8a548ca56dd4b3c91a61ae4369ec96) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Actions/MovementAction.cs") state(2)
+Script is not up to date after domain reload: guid(21784e39a1d334b14a37b4d137200346) path("Assets/LEGO/Scripts/LEGO Behaviours/MoveAction.cs") state(2)
+Script is not up to date after domain reload: guid(15e1cac54432a5642a68cce737e0bae6) path("Assets/LEGO/Scripts/LEGO Behaviours/OneButtonAction.cs") state(2)
+Script is not up to date after domain reload: guid(133e6f06294cee34393b7c9f0bd34562) path("Assets/LEGO/Tutorials/Criteria/ModAssetInstantiatedCriteria.cs") state(2)
+Script is not up to date after domain reload: guid(0c911028ca75fd74d8a9c92affda8d03) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/BlinkAndDisable.cs") state(2)
+Script is not up to date after domain reload: guid(9492e21b69c008e4b9084b1f7f82d2b6) path("Assets/LEGO/Scripts/Editor/LEGOAssetPostprocessor.cs") state(2)
+Script is not up to date after domain reload: guid(de559e6f9a7205a4c852eccaf104a6d5) path("Assets/LEGO/Scripts/Editor/OneButtonActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(cefd1a63f25b85941b0282ef1d8b5a9f) path("Assets/LEGO/Scripts/Editor/OneButtonMinifigControllerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(f7991867d604c9943ac413ef8fce9de2) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Control Movements/ControlMovementUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(4816ce2e8f1bd80409a59d985213255a) path("Assets/LEGO/Scripts/Game/Variable.cs") state(2)
+Script is not up to date after domain reload: guid(a411375ce4b7ecc4c9c319e0b8a76770) path("Assets/LEGO/Scripts/UI/Variable.cs") state(2)
+Script is not up to date after domain reload: guid(a721c3d7bd73147eea80a201079969b3) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Alive Movements/Breathe.cs") state(2)
+Script is not up to date after domain reload: guid(e2119edf0740942a580dbfaa6725e30b) path("Assets/LEGO/Scripts/LEGO Behaviours/ExplodeAction.cs") state(2)
+Script is not up to date after domain reload: guid(6730f16629d294ff99a4bb4d95c47a87) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/BrickExploder.cs") state(2)
+Script is not up to date after domain reload: guid(ea7a909ddc5664a9ba8fda96956a3a6c) path("Assets/LEGO/Scripts/LEGO Behaviours/HazardAction.cs") state(2)
+Script is not up to date after domain reload: guid(f51573a36fcce428e8afc670352fe1da) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Colliders/LEGOBehaviourCollider.cs") state(2)
+Script is not up to date after domain reload: guid(5d4a0c2b84621af40a168aca956183f5) path("Assets/LEGO/Scripts/LEGO Minifig/OneButtonMinifigController.cs") state(2)
+Script is not up to date after domain reload: guid(2fdf1362a66fc774b840fa7ce463385f) path("Assets/LEGO/Scripts/Editor/MinifigControllerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(b5e15ff27ab8243a9b99bbcf1aab66c1) path("Assets/LEGO/Scripts/Editor/LookAtActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(cb6afebd7b19c43fa95b5d8f2af6dd2d) path("Assets/LEGO/Scripts/UI/Speech Bubbles/InformationSign.cs") state(2)
+Script is not up to date after domain reload: guid(64cdf5b8403534b7cad3e882ef1d1e30) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/MinifigInputManager.cs") state(2)
+Script is not up to date after domain reload: guid(a98779c1afa4243edb74ddfb76dfb6dd) path("Assets/LEGO/Scripts/UI/LoadSceneButton.cs") state(2)
+Script is not up to date after domain reload: guid(e216f2af57df34135b3d6050ab3850c1) path("Assets/LEGO/Scripts/Editor/MovementActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(23a0fcf8564f8a1478655486c5c559e5) path("Assets/LEGO/Scripts/LEGO Behaviours/SpawnAction.cs") state(2)
+Script is not up to date after domain reload: guid(dfd53a4dbecc4b747b2fe6d4878fdcd9) path("Assets/LEGO/Scripts/UI/SpeechBubblePrompt.cs") state(2)
+Script is not up to date after domain reload: guid(6d9aecf603388481284758ba3555f4b0) path("Assets/LEGO/Scripts/LEGO Behaviours/LookAtAction.cs") state(2)
+Script is not up to date after domain reload: guid(212cb357717264c39871fff76d6badd7) path("Assets/LEGO/Scripts/Editor/RotateActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(4b2a019ae23bd4b4382751ae3f1c3cda) path("Assets/LEGO/Scripts/UI/Speech Bubbles/Talk.cs") state(2)
+Script is not up to date after domain reload: guid(9e9a0e6f7f990410b8679e3d20a98f2c) path("Assets/LEGO/Scripts/Editor/HazardActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(69765417b999eb148929d31b7ac55f1f) path("Assets/LEGO/Scripts/UI/CustomButton.cs") state(2)
+Script is not up to date after domain reload: guid(d5cdae16ebccf47468824cde65630fcf) path("Assets/LEGO/Scripts/UI/Screenshot.cs") state(2)
+Script is not up to date after domain reload: guid(e6a1ec4280ba94e0d8e8d72b88d8c033) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/MovementTracker.cs") state(2)
+Script is not up to date after domain reload: guid(78dabee1526e0b143bcb0e985a3d764c) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Control Movements/ControlMovement.cs") state(2)
+Script is not up to date after domain reload: guid(7b6e139233d4cd241b876d6a273b4f9a) path("Assets/LEGO/Scripts/Utilities/BuildSettings/BuildSettingsDisplay.cs") state(2)
+Script is not up to date after domain reload: guid(94e831d6c9571fa45b64fcb387cd7cf1) path("Assets/LEGO/Scripts/UI/InputPrompt.cs") state(2)
+Script is not up to date after domain reload: guid(d393547eeaa684d64b749babf9106a93) path("Assets/LEGO/Scripts/Editor/ObjectiveActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(66b3127b8f5366944b7264c5a8433076) path("Assets/LEGO/Scripts/UI/PromptPlacementHandler.cs") state(2)
+Script is not up to date after domain reload: guid(390483b7e0fff0348b44bdbb843502a5) path("Assets/LEGO/Tutorials/Criteria/DeletionCriteria.cs") state(2)
+Script is not up to date after domain reload: guid(9433d075abb0e48b7910e1b15f2e5115) path("Assets/LEGO/Scripts/LEGO Behaviours/PlatformAction.cs") state(2)
+Script is not up to date after domain reload: guid(80502e765f9a2d24aacf5b2ed6b507f0) path("Assets/LEGO/Tutorials/Criteria/BuildingCriteria.cs") state(2)
+Script is not up to date after domain reload: guid(32d1785af437e4cce979f5f0740b904a) path("Assets/LEGO/Scripts/Editor/TouchTriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(7e57ce09ea4e534488beadd9a805c30b) path("Assets/LEGO/Scripts/Editor/Utilities/EditorUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(b1f459f82ac5445c8845f17409d486ad) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Triggers/Trigger.cs") state(2)
+Script is not up to date after domain reload: guid(9191ac47ed0e44494a0a00b9dc09993a) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/LEGOBehaviourCoroutineManager.cs") state(2)
+Script is not up to date after domain reload: guid(aaf391e8b8fbf42e2af4a8b2b3e05f1f) path("Assets/LEGO/Scripts/LEGO Behaviours/LoseAction.cs") state(2)
+Script is not up to date after domain reload: guid(872805f28e7315e40bead0ecf292b06b) path("Assets/LEGO/Scripts/Editor/SceneFxEnabler.cs") state(2)
+Script is not up to date after domain reload: guid(75f245a1633374482b4915fd10041ba7) path("Assets/LEGO/Scripts/Editor/HoverActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(ad9ab7093964645c2b717f2be6ccf692) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Alive Movements/Wobble.cs") state(2)
+Script is not up to date after domain reload: guid(ea75a15ab47594604a26a431754dc207) path("Assets/LEGO/Scripts/Editor/LoseActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(b006a82fc6fa3a64e82a54bf68bb9502) path("Assets/LEGO/Scripts/Editor/CustomButtonEditor.cs") state(2)
+Script is not up to date after domain reload: guid(585409b061a14314ea5622772ba59ba0) path("Assets/LEGO/Scripts/Editor/CounterActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(9981b8ef649604789b63c393d7eb9c79) path("Assets/LEGO/Scripts/Game/Managers/ObjectiveManager.cs") state(2)
+Script is not up to date after domain reload: guid(24588bf813d0f4454af2ab4635c2ee11) path("Assets/LEGO/Scripts/LEGO Behaviours/AliveAction.cs") state(2)
+Script is not up to date after domain reload: guid(549c24d8c4b98f64d8dcc6aa1ae03923) path("Assets/LEGO/Scripts/UI/Objective.cs") state(2)
+Script is not up to date after domain reload: guid(aa37adc401b0647c1af4bdaa7f947363) path("Assets/LEGO/Scripts/Editor/LEGOBehaviourEditor.cs") state(2)
+Script is not up to date after domain reload: guid(1f3a70e28c8b64053b1075c3a1105b8a) path("Assets/LEGO/Scripts/Editor/RepeatableActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(4c6ee59c9581446e3a9cfb723d62a5ab) path("Assets/LEGO/Scripts/LEGO Behaviours/NearbyTrigger.cs") state(2)
+Script is not up to date after domain reload: guid(1a8fbca248867a649ba2e71c9552fdb9) path("Assets/LEGO/Scripts/Game/Managers/InputManager.cs") state(2)
+Script is not up to date after domain reload: guid(a8b0c5196ff164a90838a440d8f83a35) path("Assets/LEGO/Scripts/Editor/ModelGroupEditor.cs") state(2)
+Script is not up to date after domain reload: guid(c51296259e13b444d8003d0aadb3cdd6) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Alive Movements/Jump.cs") state(2)
+Script is not up to date after domain reload: guid(68fae508f14ed46c9802a77739d8a0bc) path("Assets/LEGO/Scripts/LEGO Behaviours/CounterTrigger.cs") state(2)
+Script is not up to date after domain reload: guid(4894077e7b2f14a4582cd1678b9dfb33) path("Assets/LEGO/Scripts/Editor/ElevatorActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(a63eb8d6ae94d46d386c6dad6426f677) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/LEGOBehaviour.cs") state(2)
+Script is not up to date after domain reload: guid(32a8b63a5530f834f93cbc7d32874a6e) path("Assets/LEGO/Scripts/Game/Managers/EventManager.cs") state(2)
+Script is not up to date after domain reload: guid(188e2a14fd68d4e4d8a1ee8b97a5f457) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Actions/RepeatableAction.cs") state(2)
+Script is not up to date after domain reload: guid(0e48a5273eca343be970a31700c9f9b4) path("Assets/LEGO/Scripts/Editor/ExplodeActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(70041ec4a8eaf414fa021323ee58751b) path("Assets/LEGO/Scripts/Editor/CounterTriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(c1d83bea380066746baffda1bed5cda7) path("Assets/LEGO/Scripts/UI/Managers/ObjectiveHUDManager.cs") state(2)
+Script is not up to date after domain reload: guid(aeb067ed9455a4c8da8e13d2d7adb6b3) path("Assets/LEGO/Scripts/LEGO Minifig/MinifigExploder.cs") state(2)
+Script is not up to date after domain reload: guid(e6cecb617de53427fa1f14800329efdc) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/BrickColliderCombiner.cs") state(2)
+Script is not up to date after domain reload: guid(bfc4263d787280149bbdb46500b5ef1f) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Control Movements/Hovercraft.cs") state(2)
+Script is not up to date after domain reload: guid(6bc03fcb6fe00684da67219db6669bab) path("Assets/LEGO/Scripts/UI/Speech Bubbles/ISpeechBubble.cs") state(2)
+Script is not up to date after domain reload: guid(cf7f12643eefb4b4d808df165b776383) path("Assets/LEGO/Scripts/LEGO Behaviours/SpeakAction.cs") state(2)
+Script is not up to date after domain reload: guid(867eae29d873e417fb08277b58feb5ed) path("Assets/LEGO/Scripts/Editor/AudioActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(b37d1cc3abe3fe54dbed9dfc3f240466) path("Assets/LEGO/Scripts/Game/Events.cs") state(2)
+Script is not up to date after domain reload: guid(6f6d02b124aec2a4c91a14c358b00a95) path("Assets/LEGO/Scripts/Game/Enums.cs") state(2)
+Script is not up to date after domain reload: guid(19378a82782f7b24886431ea6722d0e5) path("Assets/LEGO/Scripts/Game/Managers/GameFlowManager.cs") state(2)
+Script is not up to date after domain reload: guid(da46d0b9227650b41800bc3de9728111) path("Assets/LEGO/Scripts/LEGO Minifig/BlinkAndDestroy.cs") state(2)
+Script is not up to date after domain reload: guid(fb8607ac19278d646a975833e2bdbb2a) path("Assets/LEGO/Scripts/Editor/SpeakActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(5f333b083738847849ce4c59b9263620) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Objective.cs") state(2)
+Script is not up to date after domain reload: guid(288522e658b17b44c984ef72bffcda11) path("Assets/LEGO/Scripts/Utilities/MeshCombiner/MeshCombineUtility.cs") state(2)
+Script is not up to date after domain reload: guid(091be908cffca4fa0af7621024edddd8) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Triggers/SensoryTrigger.cs") state(2)
+Script is not up to date after domain reload: guid(ff29e71732b874e3faa10963e6210ae1) path("Assets/LEGO/Scripts/Editor/SensoryTriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(ef7f5f3ea3d134bc5927e7f318a5d796) path("Assets/LEGO/Scripts/Editor/ActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(d924399f57bfdd84bab3a6e3c3564720) path("Assets/LEGO/Scripts/UI/MenuNavigation.cs") state(2)
+Script is not up to date after domain reload: guid(40104ba21a444d642a8dc6350cb662fe) path("Assets/LEGO/Tutorials/1 Get Started/TutorialCallbacks.cs") state(2)
+Script is not up to date after domain reload: guid(4d93a4ee44df346689a2ee31e7a563ea) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Actions/Action.cs") state(2)
+Script is not up to date after domain reload: guid(1a010790639354953b077369105d7d1b) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/ObjectiveConfiguration.cs") state(2)
+Script is not up to date after domain reload: guid(93ee6b44308c74b839904d4c89e8c68d) path("Assets/LEGO/Scripts/LEGO Behaviours/RandomTrigger.cs") state(2)
+Script is not up to date after domain reload: guid(f291fee012eeeba49820009e24bb71c8) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Control Movements/Character.cs") state(2)
+Script is not up to date after domain reload: guid(652629fecff6a4c8fa0a985e628de942) path("Assets/LEGO/Scripts/LEGO Minifig/MinifigController.cs") state(2)
+Script is not up to date after domain reload: guid(bdbcd90893bb847279742dcf6a9cd831) path("Assets/LEGO/Scripts/Editor/ActionPicker.cs") state(2)
+Script is not up to date after domain reload: guid(90d663a07db5a4612b5bb66315af644c) path("Assets/LEGO/Scripts/LEGO Minifig/Minifig.cs") state(2)
+Script is not up to date after domain reload: guid(c59a1b06cf11a4dd5a44cf8580329cad) path("Assets/LEGO/Scripts/Editor/PickupTriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(186ecf10b731b964088b7fcbd3d2f955) path("Assets/LEGO/Tutorials/Criteria/PackageImportedCriteria.cs") state(2)
+Script is not up to date after domain reload: guid(975b0d8cec36f8945bd8ec3deb349746) path("Assets/LEGO/Scripts/Editor/SpawnActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(f27bfedca4599034a8679a2ca39a0152) path("Assets/LEGO/Scripts/Game/Managers/VariableManager.cs") state(2)
+Script is not up to date after domain reload: guid(d106ba9a82604490f90d067ba8fdd6d4) path("Assets/LEGO/Scripts/UI/Speech Bubbles/Yell.cs") state(2)
+Script is not up to date after domain reload: guid(4fd843dbb800e4143b4fd2f541ca25ea) path("Assets/LEGO/Scripts/Editor/MinifigFaceAnimationControllerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(d3911c7794f5a488492762bdb461aa25) path("Assets/LEGO/Scripts/Editor/PlatformActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(db14ce88fa83143eebe2a03a9aace553) path("Assets/LEGO/Scripts/LEGO Behaviours/RotateAction.cs") state(2)
+Script is not up to date after domain reload: guid(67d681cf043a84a3b93a6bdabd64674d) path("Assets/LEGO/Scripts/Editor/AliveActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(42a6b16b33c434f19a4bfceb6cb5a7fb) path("Assets/LEGO/Scripts/Game/IObjective.cs") state(2)
+Script is not up to date after domain reload: guid(ab5104197a3e84dda87696ecb05fe21f) path("Assets/LEGO/Scripts/LEGO Behaviours/PickupAction.cs") state(2)
+Script is not up to date after domain reload: guid(b503a90062b414d93bccba7f8055e961) path("Assets/LEGO/Scripts/LEGO Minifig/SpecialAnimationBehavior.cs") state(2)
+Script is not up to date after domain reload: guid(68f265ed8756b6948ac8575ab656572c) path("Assets/LEGO/Scripts/Editor/VariableEditor.cs") state(2)
+Script is not up to date after domain reload: guid(c5a3a1ad7d187c341b38e72d9b076a9d) path("Assets/LEGO/Scripts/LEGO Minifig/RidingMinifigController.cs") state(2)
+Script is not up to date after domain reload: guid(8a531e05301d84432885d06beab7c5aa) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/MinifigCollider.cs") state(2)
+Script is not up to date after domain reload: guid(e57315894b377470f9cf5183b44de9c3) path("Assets/LEGO/Scripts/LEGO Behaviours/AudioAction.cs") state(2)
+Script is not up to date after domain reload: guid(ae194910bbeab450aba2370e6d7f18b6) path("Assets/LEGO/Scripts/Editor/TimerTriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(1cf2c1d7e97cb2049ac830bfbac6e330) path("Assets/LEGO/Tutorials/Criteria/SaveSceneCriteria.cs") state(2)
+Script is not up to date after domain reload: guid(30c1d552a41fe4fe0a4ce4950b152117) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Actions/ObjectiveAction.cs") state(2)
+Script is not up to date after domain reload: guid(60bf44247e27b47e28eb05b73400b1f6) path("Assets/LEGO/Scripts/LEGO Behaviours/ShootAction.cs") state(2)
+Script is not up to date after domain reload: guid(c5f2c64e608e14dcb845d9b30d87fdc0) path("Assets/LEGO/Scripts/Editor/WinActionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(fc727374a14dd43b7bd871e775b4733b) path("Assets/LEGO/Scripts/Editor/NearbyTriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(a5ece6ed122988848bd16ebf8cea18ca) path("Assets/LEGO/Scripts/LEGO Behaviours/CounterAction.cs") state(2)
+Script is not up to date after domain reload: guid(f110bcd719fa94355b904b1ef4ac2257) path("Assets/LEGO/Scripts/LEGO Behaviours/HoverAction.cs") state(2)
+Script is not up to date after domain reload: guid(e082453ed3a5a0942bd134ae0655fbb5) path("Assets/LEGO/Scripts/UI/Managers/VariableHUDManager.cs") state(2)
+Script is not up to date after domain reload: guid(4b0dfd1eb9de1254296beb1569043bf3) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Control Movements/Aircraft.cs") state(2)
+Script is not up to date after domain reload: guid(33190620517f046d6b5b17697a8a471b) path("Assets/LEGO/Scripts/LEGO Behaviours/PickupTrigger.cs") state(2)
+Script is not up to date after domain reload: guid(081d8ca064934e844932583ec77ff51a) path("Assets/LEGO/Scripts/LEGO Behaviours/InputTrigger.cs") state(2)
+Script is not up to date after domain reload: guid(95cd53faf9ca94746b6c66e423976715) path("Assets/LEGO/Scripts/Editor/InputTriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(ca649f3bb958d487186776fe76b4e381) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Projectile.cs") state(2)
+Script is not up to date after domain reload: guid(61dfb48f325a34b67b123b9018e43d4b) path("Assets/LEGO/Scripts/UI/UIAnimator.cs") state(2)
+Script is not up to date after domain reload: guid(39336f9d01d0f462d986d6ce477ada77) path("Assets/LEGO/Scripts/Editor/TriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(783eb86490ee349a69ddf0667a96c5c8) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Colliders/SensoryCollider.cs") state(2)
+Script is not up to date after domain reload: guid(0a23356b7043b41f88c654c8b1ade234) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Alive Movements/Shake.cs") state(2)
+Script is not up to date after domain reload: guid(7cdf5741b44944490a4362214f7d3c33) path("Assets/LEGO/Scripts/Editor/ActionPropertyDrawer.cs") state(2)
+Script is not up to date after domain reload: guid(8c33ffae46484463db511cac510a790a) path("Assets/LEGO/Scripts/Editor/RandomTriggerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(5fe6ccf7cbd1e4dd9b8fbdb4bffcc1c1) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Colliders/MovementCollider.cs") state(2)
+Script is not up to date after domain reload: guid(58ca32d3ebeb8435db0c29236f39ae2e) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/Alive Movements/Look.cs") state(2)
+Script is not up to date after domain reload: guid(ba8dd19c6fd45da43b436bbee43e3eea) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/RidingMinifigInputManager.cs") state(2)
+Script is not up to date after domain reload: guid(50e7a1484a216794f97d7642c4f7aa5f) path("Assets/LEGO/Scripts/UI/FrameRateCounter.cs") state(2)
+Script is not up to date after domain reload: guid(36fbe60b576d14cc0998881ce1ef55c2) path("Assets/LEGO/Scripts/UI/GameOverFade.cs") state(2)
+Script is not up to date after domain reload: guid(7d66b26beb7ffda4aa03d537693a2e4e) path("Assets/LEGO/Scripts/UI/Managers/OptionsMenuManager.cs") state(2)
+Script is not up to date after domain reload: guid(96c524202b604e744bd6c4a471301b4d) path("Assets/LEGO/Scripts/LEGO Behaviours/Classes/VelocityTracker.cs") state(2)
+Script is not up to date after domain reload: guid(bdacbd89037d1484e859e36afad0dffd) path("Assets/LEGO/Scripts/UI/Speech Bubbles/Think.cs") state(2)
+Script is not up to date after domain reload: guid(0bceed747f8824ec4a6d4f7b35eca488) path("Assets/LEGO/Scripts/Utilities/MathUtility.cs") state(2)
+Script is not up to date after domain reload: guid(20a463b99ce41405a8ccc9da2f987314) path("Assets/LEGO/Scripts/LEGO Behaviours/TouchTrigger.cs") state(2)
+Script is not up to date after domain reload: guid(e41201d038bb64223af991ea71db42e6) path("Assets/LEGO/Scripts/LEGO Behaviours/WinAction.cs") state(2)
+Script is not up to date after domain reload: guid(b6cbf3fd4e0984a7eafd8e6b81b2331a) path("Assets/LEGO/Scripts/Utilities/Rotate.cs") state(2)
+Script is not up to date after domain reload: guid(5551298818e0e406db2fa59c5a7172d2) path("Assets/LEGO/Scripts/Editor/MoveActionEditor.cs") state(2)
+Switching render pipeline cf3a6b958e39941fdacf0da55fd3f29a -> 7b7fd9122c28c4d15b667c7040e3b3fd
+Refreshing native plugins compatible for Editor in 4.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5407 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (0.7 MB). Loaded Objects now: 6018.
+Memory consumption went from 0.83 GB to 0.83 GB.
+Total: 6.561400 ms (FindLiveObjects: 0.825400 ms CreateObjectMapping: 0.200500 ms MarkObjects: 4.973500 ms  DeleteObjects: 0.560400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:srp/default-pipeline: b7f79d21c2824c1db566c707043e3bdf -> fca3b659e89349f1adfcd05af53d2fa9
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010424 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\535439\Multiplayer\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.240 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1241ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (995ms)
+			LoadAssemblies (98ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (279ms)
+				TypeCache.Initialize (264ms)
+					TypeCache.ScanAssembly (256ms)
+				ResolveRequiredComponents (15ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (513ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (46ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (268ms)
+				ProcessInitializeOnLoadMethodAttributes (81ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Refreshing native plugins compatible for Editor in 2.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5577 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 46 unused Assets / (1.4 MB). Loaded Objects now: 6190.
+Memory consumption went from 0.86 GB to 0.86 GB.
+Total: 5.066900 ms (FindLiveObjects: 0.556700 ms CreateObjectMapping: 0.245800 ms MarkObjects: 3.332500 ms  DeleteObjects: 0.930800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 516.361385 seconds.
+  path: Assets/LEGO/Tutorials/Tutorial Project Settings.asset
+  artifactKey: Guid(7dabdf74df63f64439cf439d3c971095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/Tutorial Project Settings.asset using Guid(7dabdf74df63f64439cf439d3c971095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a2fa8067b0af5249f9ab84249fcdd0') in 0.416924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/LEGO/Tutorials/Unity.LEGO.Tutorials.asmdef
+  artifactKey: Guid(f70753229dcf0144dbddfb7608d7eea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/Unity.LEGO.Tutorials.asmdef using Guid(f70753229dcf0144dbddfb7608d7eea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b597d2ff5ccff085fa0cb805cdd287') in 0.012103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/LEGO/Tutorials/WelcomeDialog.asset
+  artifactKey: Guid(c4fddd74b608848c6871b3b0f762ff1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/WelcomeDialog.asset using Guid(c4fddd74b608848c6871b3b0f762ff1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed640db86b6edefda298ceb1b46e1ea8') in 0.343995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.648953 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/1_running.mp4
+  artifactKey: Guid(62d27a8aca1c14879bb1085914c42111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/1_running.mp4 using Guid(62d27a8aca1c14879bb1085914c42111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1ab390e35069b575c1478a96e1b034') in 0.049374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/1_save.mp4
+  artifactKey: Guid(0c5faad6bcff440bdbbb8b1ff32d5713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/1_save.mp4 using Guid(0c5faad6bcff440bdbbb8b1ff32d5713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608faeed09924be7c55cb97c9943b34a') in 0.009962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/TutorialCallbacks.asset
+  artifactKey: Guid(743fc35f8da11d34ca3ef73a7c5ccdaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/TutorialCallbacks.asset using Guid(743fc35f8da11d34ca3ef73a7c5ccdaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56907b76601b6405b341ebb3c9a378c') in 0.325252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/Playtest 17.asset
+  artifactKey: Guid(52972b3d494ebf949a4246542a4de9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/Playtest 17.asset using Guid(52972b3d494ebf949a4246542a4de9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90bac089b924747703bebab7c65b623') in 0.327548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/WT-Select-Gameobject.mov
+  artifactKey: Guid(79dadb0d7a0c143db8700a2c64e462c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/WT-Select-Gameobject.mov using Guid(79dadb0d7a0c143db8700a2c64e462c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac7cfd6dd9bb258f84d19576b2ec33a3') in 0.012420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/Playtest 19.asset
+  artifactKey: Guid(0dcc2b27c43d41644a1f09e71712270b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/Playtest 19.asset using Guid(0dcc2b27c43d41644a1f09e71712270b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2c530f8d99fd282d9f897f37563bde') in 0.011798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/WT-Inspector.png
+  artifactKey: Guid(3f5f7c775342843a29465f300da3d68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/WT-Inspector.png using Guid(3f5f7c775342843a29465f300da3d68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e83711c128c2333a895056e626de2a9') in 0.044979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/WT-Scene.png
+  artifactKey: Guid(dd59133a5d92342f6bb8fcaa53c8366b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/WT-Scene.png using Guid(dd59133a5d92342f6bb8fcaa53c8366b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6188b1e31b14c8057f7115e54d307cb') in 0.016486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/Playtest 20.asset
+  artifactKey: Guid(8d5869f2bdcbf5d44a04bc0ce6e4c36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/Playtest 20.asset using Guid(8d5869f2bdcbf5d44a04bc0ce6e4c36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eeabaafbcc397da2ed19b7023e56bcf') in 0.012928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/Playtest 15.asset
+  artifactKey: Guid(b61c93566c0e7f746b56ec222f396ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/Playtest 15.asset using Guid(b61c93566c0e7f746b56ec222f396ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3aafc4b157f3c169cbb2690914f8a8') in 0.012925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/Playtest 03.asset
+  artifactKey: Guid(69003a538021e2a4894301364a2711ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/Playtest 03.asset using Guid(69003a538021e2a4894301364a2711ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f42c9376fc9b34559d2fc33e0c14816c') in 0.012044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/Flex.mp4
+  artifactKey: Guid(c18cd428052da4dfe8e2f8e00c66a0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/Flex.mp4 using Guid(c18cd428052da4dfe8e2f8e00c66a0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062cd2f110a88c233de9810b43c4b2e8') in 0.009538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/LEGO/Tutorials/1 Get Started/Playtest 16.asset
+  artifactKey: Guid(9fe83f40e56c147489105da109cbc81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LEGO/Tutorials/1 Get Started/Playtest 16.asset using Guid(9fe83f40e56c147489105da109cbc81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc69bf6b9bc4a3b1ee51c77a8ded7ac3') in 0.011526 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
